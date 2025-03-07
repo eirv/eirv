@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eirv&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eirv&include_all_commits=true&custom_title=Eirv%27s+GitHub+Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirv&layout=compact&exclude_repo=cxx)
 
 <!--
