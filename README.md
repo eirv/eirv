@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eirv&include_all_commits=true&custom_title=Eirv%27s+GitHub+Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirv&layout=compact&exclude_repo=cxx,linux-syscall-support)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eirv&include_all_commits=true&custom_title=Eirv%27s+GitHub+Stats&border_radius=16)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirv&layout=compact&exclude_repo=linux-syscall-support&border_radius=16)
 
 <!--
 **eirv/eirv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
